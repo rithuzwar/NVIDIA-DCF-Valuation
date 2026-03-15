@@ -1,5 +1,6 @@
 # NVIDIA-DCF-Valuation
 This project presents a comprehensive financial model and valuation analysis of NVIDIA, built using historical financial statements and standard valuation methodologies used in investment banking and equity research.  The model analyzes NVIDIA’s financial performance and estimates its intrinsic value using a Discounted Cash Flow (DCF) approach.
+
 Project Overview
 
 The objective of this project is to analyze NVIDIA’s financial performance and determine its intrinsic valuation by building a structured financial model.
@@ -42,11 +43,11 @@ Key Insights
 • The DCF valuation highlights the difference between intrinsic value and current market pricing, reflecting the premium investors assign to NVIDIA’s AI-driven growth expectations.
 
 Files in This Repository
-File	Description
+File	Description:-
 NVIDIA_Model.xlsx	Full financial model and valuation calculations
 NVIDIA_Valuation_Report.pdf	Summary report of analysis and valuation results
 
-#Tools & Concepts Used
+#Tools & Concepts Used:-
 Microsoft Excel
 Financial Modeling
 Corporate Finance
