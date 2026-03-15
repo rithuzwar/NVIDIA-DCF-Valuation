@@ -44,8 +44,8 @@ Key Insights
 
 | File                            | Description                                      |
 | ------------------------------- | ------------------------------------------------ |
-| **NVIDIA_Model.xlsx.pdf**       | Full financial model and valuation calculations  |
-| **NVIDIA_Valuation_Report.pdf** | Summary report of analysis and valuation results |
+| **NVIDIA_Model.xlsx.pdf**       | Full financial model and calculations in pdf     |
+| **NVIDIA_finacial_modelling**   | Excel with financial modelling and formulas      |
 
 #Tools & Concepts Used:-
 Microsoft Excel
