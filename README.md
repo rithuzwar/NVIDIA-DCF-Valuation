@@ -42,10 +42,10 @@ Key Insights
 • The Altman Z-Score indicates very strong financial health and extremely low bankruptcy risk.
 • The DCF valuation highlights the difference between intrinsic value and current market pricing, reflecting the premium investors assign to NVIDIA’s AI-driven growth expectations.
 
-Files in This Repository
-File	Description:-
-NVIDIA_Model.xlsx	Full financial model and valuation calculations
-NVIDIA_Valuation_Report.pdf	Summary report of analysis and valuation results
+| File                            | Description                                      |
+| ------------------------------- | ------------------------------------------------ |
+| **NVIDIA_Model.xlsx.pdf**       | Full financial model and valuation calculations  |
+| **NVIDIA_Valuation_Report.pdf** | Summary report of analysis and valuation results |
 
 #Tools & Concepts Used:-
 Microsoft Excel
